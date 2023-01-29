@@ -17,7 +17,7 @@ description: Junior student in joint major of computer science and math
 # on the web). Replace "weekly" by the name of your own repository.
 # It should be "USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
-avatar: /weekly/images/icon.png 
+avatar: /JarynZ-weekly/images/icon.png 
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 # use this separator in your blogs to indicate where the abbreviated part ends and 
@@ -32,10 +32,10 @@ excerpt_separator: <!--more-->
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:zz2923@nyu.edu
   facebook:
   flickr:
-  github: ossd-s23
+  github: JarynZ
   instagram:
   linkedin:
   pinterest:
@@ -57,7 +57,7 @@ url: "https://ossd-s23.github.io/weekly"
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "JarynZ-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
